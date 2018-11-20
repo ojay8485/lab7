@@ -1,0 +1,20 @@
+body{
+    padding: 3em;
+    margin:0;
+}
+h1{
+    font-family: sans-serif;
+    background-color: purple;
+    color: white;
+    width:13em;
+    padding-left: 1em;
+}
+#controls{
+    background-color: #FF69B4;
+   
+    padding: 7.5em;
+}
+#result{
+    background-color: cyan;
+   
+}
